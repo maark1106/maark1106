@@ -19,5 +19,8 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maark1106&layout=compact&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
-    
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mark1106)](https://solved.ac/mark1106/)
+
+</hr>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mark1106)](https://solved.ac/mark1106/) 
+<img src="http://mazandi.herokuapp.com/api?handle=mark1106&theme=dark"/>
