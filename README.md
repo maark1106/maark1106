@@ -18,6 +18,6 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=maark1106&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maark1106&layout=compact&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"
            /> </div> 
-        [![Solved.ac 프로](http://mazassumnida.wtf/api/v2/generate_badge?boj=mark1106)](https://solved.ac/{mark1106}/)
+        [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mark1106)](https://solved.ac/{mark1106}/)
     </div>
     
