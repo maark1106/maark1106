@@ -22,4 +22,3 @@
 
 </hr>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mark1106)](https://solved.ac/mark1106/) 
